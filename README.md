@@ -39,7 +39,8 @@ How it works:
 - The rotate method rotates the polygon by a given angle theta, in degrees.
   
 
-3. Art
+3)Art
+ 
 This project generates recursive art in the form of branching lines. It is a simple implementation of recursive fractals, producing patterns such as trees or branching shapes.
 
 How it works:
