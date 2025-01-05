@@ -15,7 +15,8 @@ These projects offer a hands-on understanding of fractal patterns and 2D transfo
 
 Projects Overview:
 
-1)Sierpinski
+
+1)Sierpinski:
 
 This project generates a Sierpinski Triangle fractal using recursion. The Sierpinski Triangle is one of the most famous fractals, created by repeatedly subdividing an equilateral triangle into smaller ones.
 
@@ -26,7 +27,7 @@ How it works:
 - The depth of recursion determines the detail of the fractal (higher values create more detailed patterns).
   
 
-2)Transform2D
+2)Transform2D:
 
 This project demonstrates basic 2D geometric transformations—scaling, translation, and rotation—on a polygon.
 
@@ -39,7 +40,7 @@ How it works:
 - The rotate method rotates the polygon by a given angle theta, in degrees.
   
 
-3)Art
+3)Art:
  
 This project generates recursive art in the form of branching lines. It is a simple implementation of recursive fractals, producing patterns such as trees or branching shapes.
 
