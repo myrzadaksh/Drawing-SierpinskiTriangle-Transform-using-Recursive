@@ -17,9 +17,9 @@ Projects Overview:
 
 1)Sierpinski
 
-- This project generates a Sierpinski Triangle fractal using recursion. The Sierpinski Triangle is one of the most famous fractals, created by repeatedly subdividing an equilateral triangle into smaller ones.
+This project generates a Sierpinski Triangle fractal using recursion. The Sierpinski Triangle is one of the most famous fractals, created by repeatedly subdividing an equilateral triangle into smaller ones.
 
-- How it works:
+How it works:
 
 - The sierpinski method is a recursive function that draws a filled triangle and then calls itself to draw three smaller triangles in each iteration.
 
